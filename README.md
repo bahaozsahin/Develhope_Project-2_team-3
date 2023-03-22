@@ -14,5 +14,5 @@
 - Plot a bar chart for total profit in each category (number of downloads per app * price per app)
 ## Week 3
 - bonus task - replot week 2 results with any kind of chart to find and learn other ways of plotting
-- Find top 5 apps that has the smallest size (MB) and biggest number of installs
+- Find top 5 apps that has the smallest size (MB) and the biggest number of installs
 - Find top 5 apps in each category ranked by number of installs and separate result by type of apps (free and paid)
